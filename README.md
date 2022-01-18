@@ -11,3 +11,5 @@ The data file ***scrapped_sites.fst*** in this repository is the result of the *
 I would include other intermediary data files, but don't think the API terms of use allow me to as individual accounts are identified.
 
 The other thing necessary to get the code running is a bearer token. This can be obtained by creating an account at developer.twitter.com. Different "levels" have different limits on the pacing and amount of requests that can be made. I submitted the project for the academic API and was approved in a day or so. This code might not work if your project isn't on the "Academic" level.
+
+File paths also will need to be updates if you run this on your computer.
